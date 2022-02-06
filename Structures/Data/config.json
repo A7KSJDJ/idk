@@ -1,0 +1,5 @@
+{
+    "token": "OTIzNjcwMDMxODE1MDQ1MTIw.YcTYwA.hZxeT17dI-kzV_2LX_aalolQj_U",
+    "prefix": "-",
+    "mongooseConnectionString": "mongodb+srv://Oubima:Pvllp2IPICIYuBrf@cluster0.6zdov.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
